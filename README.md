@@ -1,7 +1,4 @@
-
-
-<!--
-**saibisare/saibisare** is a # 💫 About Me:
+# 💫 About Me:
 Student • MERN Stack • DSA grinder 🧠<br>Here to build, break, and learn.
 
 
@@ -18,16 +15,4 @@ Student • MERN Stack • DSA grinder 🧠<br>Here to build, break, and learn.
 ---
 [![](https://komarev.com/ghpvc/?username=saibisare&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
